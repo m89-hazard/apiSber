@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+.allure/
+build/
+/src/test/resources/files/downloads/
+*.lock
+*.sync
